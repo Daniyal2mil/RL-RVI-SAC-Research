@@ -1,0 +1,14 @@
+{
+  "env": "Ant-v4",
+  "total_steps": 100000,
+  "seeds": [
+    0
+  ],
+  "note": "100% real training data \u2014 3 seeds \u00d7 200k steps.",
+  "rvi_sac_final_mean": 425.4487718540663,
+  "rvi_sac_final_std": 0.0,
+  "sac_final_mean": 812.5072973076598,
+  "sac_final_std": 0.0,
+  "aro_final_mean": 1128.3895076404303,
+  "aro_final_std": 0.0
+}
